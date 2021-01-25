@@ -12,7 +12,7 @@
 
 链表分为单向链表和双向链表，不能直接获取元素，删除和插入操作简单。判断一个链表是否有环用快慢指针的方法。
 
-关于<font color='red'>单链表是否有环的一系列问题</font>参见https://www.cnblogs.com/nyist-xsk/p/13089680.html
+关于 <font color='red'> 单链表是否有环的一系列问题 </font> 参见https://www.cnblogs.com/nyist-xsk/p/13089680.html
 
 数组和链表都属于线性表。
 
